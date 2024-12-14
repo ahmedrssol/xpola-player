@@ -4,3 +4,8 @@ http://m3u.lol:80/shamosa/620064221974/222188
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", bein2
 http://m3u.lol:80/shamosa/620064221974/222189
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png", beinsports1
+http://xtv.ooo:8080/live/Jawad1994/03112371534/381330.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png", beinsports2
+http://xtv.ooo:8080/live/Jawad1994/03112371534/381332.ts
