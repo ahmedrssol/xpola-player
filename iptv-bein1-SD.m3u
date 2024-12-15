@@ -1,3 +1,4 @@
 #EXTINF:-1, Bein1-Sd-iptv
 http://5.62.130.10:80/iptv/iptv/30.ts
-
+#EXTINF:-1, Hd
+http://5.62.130.10:80/iptv/iptv/28.ts
