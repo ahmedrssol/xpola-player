@@ -3,3 +3,5 @@
 http://5.62.130.10:80/iptv/iptv/28.ts
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 http://5.62.130.10:80/iptv/iptv/30.ts
+#EXTINF:-1, B1.S1
+https://raw.githubusercontent.com/ahmedrssol/xpola-player/main/b1.S1.m3u8
